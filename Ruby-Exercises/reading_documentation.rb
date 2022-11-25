@@ -8,4 +8,11 @@
 8. https://ruby-doc.org/core-3.1.2/String.html or https://docs.ruby-lang.org/en/2.7.0/String.html
 9. #rjust
 
+Reading_documentation_2
+
+1. string = "string".upcase
+2. a.insert(3,5,6,7)
+3. - ""abc", "def","ghi,jkl", "mno", "pqr,stu", "vwx", "yz""
+-""abc def ghi" , "jkl mno pqr", "stu vwx yz""
+-""abc def ghi", "jkl mno pqr,stu vwx yz"" second argument in split is limit # of value returned.
 =end
